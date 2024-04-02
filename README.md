@@ -2,6 +2,7 @@
 
 ![web-scraping-diagram](https://github.com/ANSHPG/WebDataScrape/assets/132222062/4f4d8751-738a-41d4-a6b8-ba66db144ab9)
 
+![Screenshot 2024-04-02 140752](https://github.com/ANSHPG/WebDataScrape/assets/132222062/7d0f5746-be39-462b-8429-b29e27a1e4b3)
 
 The web scraping project was conducted using Google Colab, utilizing libraries such as Pandas, Requests, and BeautifulSoup. The objective was to extract data from an internship website for educational purposes.
 
