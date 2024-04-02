@@ -3,7 +3,7 @@
 ![web-scraping-diagram](https://github.com/ANSHPG/WebDataScrape/assets/132222062/4f4d8751-738a-41d4-a6b8-ba66db144ab9)
 
 
-1. The web scraping project was conducted using Google Colab, utilizing libraries such as Pandas, Requests, and BeautifulSoup. The objective was to extract data from an internship website for educational purposes.
+The web scraping project was conducted using Google Colab, utilizing libraries such as Pandas, Requests, and BeautifulSoup. The objective was to extract data from an internship website for educational purposes.
 
 2. The project began by utilizing the Requests library to simulate a browser's behavior, enabling access to the website's data. This step was crucial for mimicking human interaction and avoiding potential blocks from the website's security measures.
 
